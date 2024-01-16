@@ -63,33 +63,45 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
 ### Tools
 > Discover a wide variety of tools essential for UI/UX design, including software design tools, prototyping tools, plugins, and more.
 <table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-       <tr>
-        <td> <a href="https://www.figma.com/">Figma </a></td>
-        <td>This is a web design tool where we can modify texts, shapes, colors, and images and add functionalities such as hovering, scrolling, or animation to their interface assets.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.sketch.com/">Sketch</a></td>
-        <td>Sketch is the all-in-one platform for digital design — with collaborative design tools, prototyping and developer handoff. </td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.adobe.com/">Adobe XD</a></td>
-        <td>Adobe XD is a comprehensive design and prototyping tool that allows you to create interactive prototypes, wireframes, and high-fidelity designs. It also integrates well with other Adobe Creative Cloud apps. </td>
-      </tr>
-      <tr>
-        <td> <a href="https://proto.io/">Proto.io</a></td>
-        <td>Proto.io is a web-based prototyping tool that allows you to create interactive and animated prototypes without any coding knowledge. </td>
-      </tr>
-       <tr>
-    <td><a href="https://www.invisionapp.com/" target="_blank">InVision</a></td>
-    <td>InVision is a prototyping tool that enables designers to create interactive and animated user interfaces.</td>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td> <a href="https://www.figma.com/">Figma </a></td>
+    <td>This is a web design tool where we can modify texts, shapes, colors, and images and add functionalities such as hovering, scrolling, or animation to their interface assets.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.sketch.com/">Sketch</a></td>
+    <td>Sketch is the all-in-one platform for digital design — with collaborative design tools, prototyping and developer handoff. </td>
+  </tr>
+  <tr>
+    <td> <a href="https://helpx.adobe.com/xd/get-started.html">Adobe XD</a></td>
+    <td>Adobe XD is a comprehensive design and prototyping tool that allows you to create interactive prototypes, wireframes, and high-fidelity designs. It also integrates well with other Adobe Creative Cloud apps. </td>
   </tr>
   <tr>
     <td><a href="https://www.adobe.com/products/illustrator.html" target="_blank">Adobe Illustrator</a></td>
     <td>Adobe Illustrator is a vector graphics editor widely used for creating icons and illustrations in UI/UX design.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com/products/photoshop.html" target="_blank">Adobe Photoshop</a></td>
+    <td>Adobe Photoshop is a versatile graphic design tool commonly used for image editing and UI design.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com/products/aftereffects.html" target="_blank">Adobe After Effects</a></td>
+    <td>Adobe After Effects is a motion graphics and animation software commonly used to create interactive and dynamic user interfaces.</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com/products/indesign.html" target="_blank">Adobe InDesign</a></td>
+    <td>Adobe InDesign is a desktop publishing tool used for creating design layouts, including those for web and mobile applications.</td>
+  </tr>
+  <tr>
+    <td> <a href="https://proto.io/">Proto.io</a></td>
+    <td>Proto.io is a web-based prototyping tool that allows you to create interactive and animated prototypes without any coding knowledge. </td>
+  </tr>
+  <tr>
+    <td><a href="https://www.invisionapp.com/" target="_blank">InVision</a></td>
+    <td>InVision is a prototyping tool that enables designers to create interactive and animated user interfaces.</td>
   </tr>
   <tr>
     <td><a href="https://www.balsamiq.com/" target="_blank">Balsamiq</a></td>
@@ -104,16 +116,16 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
     <td>Marvel is a design and prototyping platform that helps in creating interactive user interfaces.</td>
   </tr>
   <tr>
-    <td><a href="https://www.solidifyapp.com/" target="_blank">Solidify</a></td>
-    <td>Solidify is a user testing and prototyping tool that helps in testing and validating UX designs.</td>
+    <td><a href="https://marvelapp.com/pop/" target="_blank">POP (Prototyping on Paper)</a></td>
+    <td>POP is a mobile app by Marvel that lets you transform paper sketches into interactive prototypes for mobile app designs.</td>
+  </tr>
+  <tr>
+    <td><a href="https://helio.app/" target="_blank">Helio (Previously Solidify)</a></td>
+    <td>Realtime research for product managers, growth marketers, and designers. Get actionable user insights from a survey panel in minutes.</td>
   </tr>
   <tr>
     <td><a href="https://www.axure.com/" target="_blank">Axure RP</a></td>
     <td>Axure RP is a comprehensive prototyping and wireframing tool for complex UX projects.</td>
-  </tr>
-   <tr>
-    <td><a href="https://www.adobe.com/products/photoshop.html" target="_blank">Adobe Photoshop</a></td>
-    <td>Adobe Photoshop is a versatile graphic design tool commonly used for image editing and UI design.</td>
   </tr>
   <tr>
     <td><a href="https://www.protopie.io/" target="_blank">ProtoPie</a></td>
@@ -147,14 +159,6 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
     <td><a href="https://www.miro.com/" target="_blank">Miro</a></td>
     <td>Miro is an online collaborative whiteboarding platform that supports visual thinking, brainstorming, and wireframing for UX teams.</td>
   </tr>
-    <tr>
-    <td><a href="https://www.adobe.com/products/aftereffects.html" target="_blank">Adobe After Effects</a></td>
-    <td>Adobe After Effects is a motion graphics and animation software commonly used to create interactive and dynamic user interfaces.</td>
-  </tr>
-  <tr>
-    <td><a href="https://www.adobe.com/products/indesign.html" target="_blank">Adobe InDesign</a></td>
-    <td>Adobe InDesign is a desktop publishing tool used for creating design layouts, including those for web and mobile applications.</td>
-  </tr>
   <tr>
     <td><a href="https://www.mockplus.com/" target="_blank">Mockplus</a></td>
     <td>Mockplus is a prototyping tool that offers a quick and easy way to create interactive prototypes with a drag-and-drop interface.</td>
@@ -166,10 +170,6 @@ This category is a curated collection of valuable UI (User Interface) and UX (Us
   <tr>
     <td><a href="https://whimsical.com/" target="_blank">Whimsical</a></td>
     <td>Whimsical is an online collaborative tool that enables you to create flowcharts, wireframes, and mind maps for UX design projects.</td>
-  </tr>
-  <tr>
-    <td><a href="https://marvelapp.com/pop/" target="_blank">POP (Prototyping on Paper)</a></td>
-    <td>POP is a mobile app that lets you transform paper sketches into interactive prototypes for mobile app designs.</td>
   </tr>
   <tr>
     <td><a href="https://uxdesign.cc/" target="_blank">UX Collective</a></td>
