@@ -358,7 +358,7 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
 > Find an amazing web designers in Youtube in creating content about UI/UX design
 <table width="100%">
       <tr>
-        <th>Resource Name</th>
+        <th>Channel Name</th>
         <th>Description</th>
       </tr>
       <tr>
@@ -369,12 +369,12 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
       </tr>
       <tr>
         <td> <a href="https://www.youtube.com/@FluxAcademy">Flux Academy</a></td>
-        <td>Learn to be a more successful and profitable web designer:master the latest trends, tools, and technologies, and make it easy to get and retain high-value dream clients.
+        <td>Learn to be a more successful and profitable web designer: Master the latest trends, tools, and technologies, and make it easy to get and retain high-value dream clients.
         </td>
       </tr>
       <tr>
         <td> <a href="https://www.youtube.com/@rachelhow">Rachel How</a></td>
-        <td>UI/UX design & income diversification, simplified✨ master the latest trends, tools, and technologies, and make it easy to get and retain high-value dream clients. </td>
+        <td>UI/UX design & income diversification, simplified. Practical resources to help people expand their skills, get better at UI/UX design, diversify their income and become more productive. </td>
       </tr>
       <tr>
         <td> <a href="https://www.youtube.com/@Figma/featured">Figma</a></td>
@@ -383,11 +383,11 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
       </tr>
       <tr>
         <td><a href="https://www.youtube.com/@freecodecamp">FreeCodeCamp</a></td>
-        <td>"FreeCodeCamp's YouTube channel is a treasure trove for UI and UX enthusiasts! 🎨💡 From design principles to hands-on tutorials, it's a valuable resource for honing your skills and staying updated in the ever-evolving world of user interface and experience design. 🚀✨</td>
+        <td>FreeCodeCamp's YouTube channel is a treasure trove for UI and UX enthusiasts! 🎨💡 From design principles to hands-on tutorials, it's a valuable resource for honing your skills and staying updated in the ever-evolving world of user interface and experience design. 🚀✨</td>
       </tr>
       <tr>
         <td><a href="https://www.youtube.com/@abnux">ABNUX</a></td>
-        <td>Founder of 10kdesigners – learn UI/UX design. This channel is dedicated to helping you become a better designer • Previously Head of Design at Unacademy, Founder @LisnApp.</td>
+        <td>Founder of <a href="https://www.10kdesigners.com/">10kdesigners</a> – learn UI/UX design. This channel is dedicated to helping you become a better designer. </td>
       </tr>
 </table>
 
