@@ -322,40 +322,37 @@ b) If the book is not free, provide a URL (web link) where it can be purchased o
 ### Communities
 > Explore communities where talented web designers come together to collaborate and share ideas, creating beautiful designs. 
 <table width="100%">
-      <tr>
-        <th>Resource Name</th>
-        <th>Description</th>
-      </tr>
-      <tr>
-        <td> <a href="https://designerhangout.co/">Designer Hangout</a></td>
-        <td>Designer Hangout is a dedicated, invite-only network of UX designers and researchers who discuss trends, give advice, share stories, uncover insights, surface opportunities, and connect in-person. As a UX practitioner, Designer Hangout is your "secret weapon" to progressing your career and accomplishing your life goals. Together, we’re creating the World's most reliable brain trust for UX designers in a fast-paced age.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.linkedin.com/groups/4496205/">User Experience (UX)</a></td>
-        <td>Sharing your views, ideas, events, and job offers.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.facebook.com/groups/205756059526207%C2%A0">UI/UX designers</a></td>
-        <td>This group is meant for designers - a place to learn and share - to ask questions, network, and improve.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://discords.com/servers/800793576157610064">GSIUXD</a></td>
-        <td>GSIUXD aka Get Started in UX Design—A community-driven to spread awareness and help new UX designers transition into the field and make a place for themselves. Discord is your new platform where you can exchange ideas, tips, and many more from product designers, ux designers, user researchers, visual designers, freelancers, product managers, just named a few.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.reddit.com/r/UXResearch/">r/UXResearch</a></td>
-        <td>A community for sharing and discussing UX research. The goal is to think about UX research broadly and consider studies from related/overlapping disciplines (e.g., market research, medical anthropology, public health, design research). Open to both academic and applied research.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.linkedin.com/groups/1854192/">UX Designer</a></td>
-        <td>The UX Designer group is the perfect space for you if you want to share your ideas, discuss trends, and collaborate. It is designed for users to ask questions about anything related to User Experience(UX), User Interface(UI), Web Design and so on. So feel free to ask away if you are new to UX Designer Group.</td>
-      </tr>
-      <tr>
-        <td> <a href="https://www.linkedin.com/groups/1854192/">UX / HCI Researchers</a></td>
-        <td>This is a group for UXers to expand our network of people and ideas.
-Most members work in the field of UX Design or UX Research as UX Designer, Usability Expert, UX Researcher, Human Factors Engineer - HFE, Product Designer, Interaction Designer, Information Architect or UX Architect, Student, Lecturer, Consultant, Freelance.</td>
-      </tr>
-  </table>
+  <tr>
+    <th>Resource Name</th>
+    <th>Description</th>
+    <th>Platform</th>
+  </tr>
+  <tr>
+    <td> <a href="https://designerhangout.co/">Designer Hangout</a></td>
+    <td>Designer Hangout is a dedicated, invite-only network of UX designers and researchers who discuss trends, give advice, share stories, uncover insights, surface opportunities, and connect in-person. As a UX practitioner, Designer Hangout is your "secret weapon" to progressing your career and accomplishing your life goals. Together, we’re creating the World's most reliable brain trust for UX designers in a fast-paced age.</td>
+    <td>Website</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.facebook.com/groups/205756059526207%C2%A0">UI/UX designers</a></td>
+    <td>This group is meant for designers - a place to learn and share - to ask questions, network, and improve.</td>
+    <td>Facebook</td>
+  </tr>
+  <tr>
+    <td> <a href="https://discords.com/servers/800793576157610064">GSIUXD</a></td>
+    <td>GSIUXD aka Get Started in UX Design—A community-driven to spread awareness and help new UX designers transition into the field and make a place for themselves. Discord is your new platform where you can exchange ideas, tips, and many more from product designers, ux designers, user researchers, visual designers, freelancers, product managers, just to name a few.</td>
+    <td>Discord</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.reddit.com/r/UXResearch/">r/UXResearch</a></td>
+    <td>A community for sharing and discussing UX research. The goal is to think about UX research broadly and consider studies from related/overlapping disciplines (e.g., market research, medical anthropology, public health, design research). Open to both academic and applied research.</td>
+    <td>Reddit</td>
+  </tr>
+  <tr>
+    <td> <a href="https://www.linkedin.com/groups/1854192/">UX Designer</a></td>
+    <td>The UX Designer group is the perfect space for you if you want to share your ideas, discuss trends, and collaborate. It is designed for users to ask questions about anything related to User Experience(UX), User Interface(UI), Web Design and so on. So feel free to ask away if you are new to UX Designer Group.</td>
+    <td>LinkedIn</td>
+  </tr>
+</table>
 
 ### YouTube Channels
 > Find an amazing web designers in Youtube in creating content about UI/UX design
